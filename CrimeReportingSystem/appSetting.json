@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "LocalConnectionString": "Server=LAPTOP-NU6C09HU; Database=Crime; Integrated Security=True;"
+    
+  }
+}
